@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/salaam-daris/salaam-daris/linkedin_image.jpg)](https://salaam-daris.io)
+
+[![MasterHead](https://github.com/Salaam-Daris/Salaam-Daris.git/linkedin_image.jpg)](https://salaam-daris.io)
 
 <h1 align="center">Hi 👋, I'm Daris Salaam</h1>
 <h3 align="center">DevOps and Cloud enthusiast, with a passion for Open Source</h3>
