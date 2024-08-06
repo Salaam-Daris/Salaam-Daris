@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **darisansari786@gmail.com**
 
-- ⚡ Fun fact **Building pipelines faster than SpaceX launches rockets.**
+- ⚡ Fun fact : **Building pipelines faster than SpaceX launches rockets.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
