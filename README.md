@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps, Cloud, Python, Open Source, Developer Relations**
 
-- 📫 How to reach me **darisansari786@gmail.com**
+- 📫 How to reach me **salaamdaris@gmail.com**
 
 - ⚡ Fun fact : **Building pipelines faster than SpaceX launches rockets.**
 
