@@ -28,9 +28,9 @@
   <!-- Data Analyst Tools -->
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img   src="https://camo.githubusercontent.com/69ecab8e5a26cc2f531cb517e009ebcda911bf7472716c58e120fe7b98056ae8/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f77696b696d656469614f6d6d6f6e732f636f6d6d6f6e732f66696c65732f4d6963726f736f66745f4f66666963655f457863656c5f28323031392d2750726573656e74292e737667" alt="MS Excel" width="40" height="40"/>
+  <img   src="https://github.com/Salaam-Daris/Salaam-Daris/blob/9a2b2d59324e0876af1c627a7b1f63fc78b00a37/icons8-excel-48%20(1).png" alt="MS Excel" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://github.com/Salaam-Daris/Salaam-Daris/blob/9a2b2d59324e0876af1c627a7b1f63fc78b00a37/icons8-tableau-software-48.png" alt="Tableau" width="40" height="40"/>
 
   <!-- Cloud & DevOps Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
