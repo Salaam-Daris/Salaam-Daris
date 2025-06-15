@@ -1,21 +1,21 @@
 [![MasterHead](https://github.com/Salaam-Daris/Salaam-Daris/blob/main/linkedin_image.jpg)](https://salaam-daris.io)
 
 <h1 align="center">Hi 👋, I'm Daris Salaam</h1>
-<h3 align="center">DevOps and Cloud enthusiast, with a passion for Open Source</h3>
+<h3 align="center">Aspiring Data Analyst | Cloud Engineer with a passion for data-driven solutions</h3>
 
-- 🔭 I’m currently working on [jenkins-argocd-k8's](jenkins-argocd-k8's)
+- 🌱 Currently focused on **Data Analytics** using **SQL, Python, Excel, Power BI, and Tableau**
+- 📊 Building dashboards and solving real-world problems through data storytelling
+- 📂 Check out my latest project: **Customer Analysis in Tableau** [here](https://github.com/Salaam-Daris/Customer-Analysis-Tableau)
 
-- 🌱 I’m currently learning **Python, Kubernetes**
+---
 
-- 👯 I’m looking to collaborate on **DevOps, Python, Open Source projects**
+- ☁️ Previously worked as a **Cloud Engineer** with experience in **AWS, CI/CD, Kubernetes, Jenkins, Terraform**
+- 🛠️ Hands-on with automation, monitoring tools, and cloud-native solutions
 
-- 🤝 I’m looking for help with **DevOps, Cloud, Python, Open Source, Developer Relations**
+- 👯 Open to collaborating on **data analysis**, **dashboard design**, or **cloud automation**
+- 📫 Reach me at **salaamdaris@gmail.com**
+- ⚡ Fun fact: I blend cloud engineering with data analytics to tell better stories through data!
 
-- 💬 Ask me about **DevOps, Cloud, Python, Open Source, Developer Relations**
-
-- 📫 How to reach me **salaamdaris@gmail.com**
-
-- ⚡ Fun fact : **Building pipelines faster than SpaceX launches rockets.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
