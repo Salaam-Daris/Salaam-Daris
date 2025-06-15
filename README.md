@@ -28,7 +28,7 @@
   <!-- Data Analyst Tools -->
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/6f2f25b2498e19eb1ecdf610b1ab2653b6a2e3de2d8b0f8a4295308a0b3914c0/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64657669636f6e732f64657669636f6e2f6d61737465722f69636f6e732f6578656c2f6578656c2d6f726967696e616c2e737667" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="excel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
 
