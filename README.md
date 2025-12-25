@@ -5,7 +5,7 @@
 
 - 🌱 Currently focused on **Data Analytics** using **SQL, Python, Excel, Power BI, and Tableau**
 - 📊 Building dashboards and solving real-world problems through data storytelling
-- 📂 Check out my latest project: **Customer Analysis in Tableau** [here](https://github.com/Salaam-Daris/Customer-Analysis-Tableau)
+- 📂 Check out my latest project: **Pizza Sales Dashboard using SQL,Excel and PowerBI**  [here](https://github.com/Salaam-Daris/Pizza-Sales-Dashboard-SQL-Excel-PowerBI)
 
 ---
 
