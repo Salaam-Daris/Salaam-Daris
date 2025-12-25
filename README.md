@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Salaam-Daris/Salaam-Daris/blob/main/linkedin_image.jpg)](https://salaam-daris.io)
+[![MasterHead](https://github.com/Salaam-Daris/Salaam-Daris/blob/main/LinkedIn%20Banner.png)](https://salaam-daris.io)
 
 <h1 align="center">Hi 👋, I'm Daris Salaam</h1>
 <h3 align="center">Aspiring Data Analyst | Cloud Engineer with a passion for data-driven solutions</h3>
